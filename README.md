@@ -1,1 +1,2 @@
 # gate-keeper
+The user management system will allow organizations to easily manage their employees and their roles. Admins can be added and will have the ability to create, edit, and delete employee profiles. They can also assign roles, managers, and direct reports to employees. Employees can view their own profiles as well as profiles of employees under them in the organizational hierarchy.
